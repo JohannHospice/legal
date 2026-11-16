@@ -8,6 +8,7 @@ Documents légaux publics de Johann Hospice, servis par GitHub Pages sur https:/
 | --- | --- | --- |
 | Accueil | https://johannhospice.github.io/legal/ | |
 | Johann \| Tech, outil de messages Instagram | https://johannhospice.github.io/legal/techwithjohann/ | `#suppression`, `#data-deletion` |
+| Johann \| Tech, accompagnement « Signé en 30 jours » | https://johannhospice.github.io/legal/accompagnement/ | `#conditions`, `#confidentialite` |
 | Fortuna | https://johannhospice.github.io/legal/fortuna/ | `#confidentialite`, `#conditions`, `#privacy`, `#terms` |
 
 ## Qui pointe vers quoi
@@ -17,6 +18,7 @@ Documents légaux publics de Johann Hospice, servis par GitHub Pages sur https:/
 | Meta, app « Techwithjohann » | Politique de confidentialité | `https://johannhospice.github.io/legal/techwithjohann/` | la même, depuis le 7/11 | fait |
 | Meta, app « Techwithjohann » | Instructions de suppression des données | `https://johannhospice.github.io/legal/techwithjohann/#data-deletion` | la même, depuis le 7/11 | fait |
 | Meta, portefeuille d'entreprise et vérification d'entreprise | Site web | `https://johannhospice.github.io/legal/` | la même, depuis le 7/11 | fait |
+| Stripe, compte Johann \| Tech | Conditions de service et politique de confidentialité (informations publiques) | `https://johannhospice.github.io/legal/accompagnement/#conditions` et `#confidentialite` | à déclarer | Johann |
 | Enable Banking, application « Fortuna (usage personnel) » | Politique de confidentialité | `https://johannhospice.github.io/legal/fortuna/#privacy` | à relire (probablement `…/fortuna-legal/PRIVACY`, redirigée ici) | Johann |
 | Enable Banking, application « Fortuna (usage personnel) » | Conditions | `https://johannhospice.github.io/legal/fortuna/#terms` | à relire (probablement `…/fortuna-legal/TERMS`, redirigée ici) | Johann |
 
@@ -31,6 +33,7 @@ Aucun autre organisme n'a reçu d'URL de ces dépôts : Kairos reste en mode tes
 
 1. Modifier la source :
    - Johann | Tech : `CREATION/docs/legal/politique-confidentialite-outil-dm.md`, puis reporter le texte dans `techwithjohann/index.html` (sans la section « Hébergement », réservée à Johann) ;
+   - Accompagnement : `CREATION/docs/legal/cgv-accompagnement.md` et `confidentialite-accompagnement.md`, puis régénérer `accompagnement/index.html` (pandoc, une page, ancres `#conditions` et `#confidentialite`) ;
    - Fortuna : `fortuna/index.html` directement, versions française et anglaise.
 2. Changer la date « Dernière mise à jour » et « Last updated ».
 3. Garder les ancres du tableau ci-dessus : des services les citent.
