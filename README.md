@@ -8,7 +8,7 @@ Documents légaux publics de Johann Hospice, servis par GitHub Pages sur https:/
 | --- | --- | --- |
 | Accueil | https://johannhospice.github.io/legal/ | |
 | Johann \| Tech, outil de messages Instagram | https://johannhospice.github.io/legal/techwithjohann/ | `#suppression`, `#data-deletion` |
-| Johann \| Tech, accompagnement « Signé en 30 jours » | https://johannhospice.github.io/legal/accompagnement/ | `#conditions`, `#confidentialite` |
+| Johann \| Tech, accompagnement « Signé en 30 jours » | https://johannhospice.github.io/legal/accompagnement/ | `#conditions`, `#retractation`, `#confidentialite` |
 | Fortuna | https://johannhospice.github.io/legal/fortuna/ | `#confidentialite`, `#conditions`, `#privacy`, `#terms` |
 
 ## Qui pointe vers quoi
